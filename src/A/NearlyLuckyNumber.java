@@ -1,7 +1,7 @@
 package A;
 
 import java.util.Scanner;
-
+//this is a comment
 public class NearlyLuckyNumber {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
